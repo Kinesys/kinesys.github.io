@@ -13,7 +13,7 @@ icon: book
 
 ## Github
 
-https://github.com/kinesys
+https://github.com/Nephael
 
 ## Team
 
